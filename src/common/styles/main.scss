@@ -14,6 +14,8 @@
 :root {
   --black: #141414;
   --index: calc(1vw + 1vh);
+  --transition: 1.25s cubic-bezier(.2, .5, 0, 1);
+  --transition-cursor: 2s cubic-bezier(.05, .5, 0, 1);
 }
 
 body {
