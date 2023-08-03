@@ -1,10 +1,11 @@
 import React from "react";
+import MagicList from "../components/magic-list/MagicList";
 
 const Home = () => {
   return (
-    <div>
-      Home
-    </div>
+    <>
+      <MagicList />
+    </>
   );
 };
 

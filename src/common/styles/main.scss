@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'Arsenal_m';
+  src: url('../assets/fonts/arsenal-regular.woff2') format('woff2');
+  font-style: normal;
+  font-weight: normal;
+}
+
+:root {
+  --black: #141414;
+  --index: calc(1vw + 1vh);
+}
+
+body {
+  background-color: #f0f0f0;
+  font-family: 'Arsenal_m', sans-serif;
+}
