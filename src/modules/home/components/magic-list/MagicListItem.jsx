@@ -1,7 +1,6 @@
 import styles from './MagicList.module.scss';
 import { Link } from "react-router-dom";
 import { ROUTES } from "../../../../utils/constants";
-import { useEffect } from "react";
 
 const MagicListItem = ({image, title}) => {
   return (
