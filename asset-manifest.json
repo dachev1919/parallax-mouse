@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/parallax-mouse/static/css/main.be93ecba.css",
+    "main.js": "/parallax-mouse/static/js/main.22e0c636.js",
+    "static/media/2.jpg": "/parallax-mouse/static/media/2.3b2eb61407f03578480d.jpg",
+    "static/media/1.jpg": "/parallax-mouse/static/media/1.5287813a96ff7029b327.jpg",
+    "static/media/3.jpg": "/parallax-mouse/static/media/3.107869aae539089770be.jpg",
+    "static/media/5.jpg": "/parallax-mouse/static/media/5.47a4cd9185e55c2aff9e.jpg",
+    "static/media/4.jpg": "/parallax-mouse/static/media/4.aafc7518e6c30e365db0.jpg",
+    "static/media/arsenal-regular.woff2": "/parallax-mouse/static/media/arsenal-regular.16b9c6af065c463dbab4.woff2",
+    "index.html": "/parallax-mouse/index.html",
+    "main.be93ecba.css.map": "/parallax-mouse/static/css/main.be93ecba.css.map",
+    "main.22e0c636.js.map": "/parallax-mouse/static/js/main.22e0c636.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be93ecba.css",
+    "static/js/main.22e0c636.js"
+  ]
+}
