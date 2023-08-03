@@ -50,7 +50,7 @@
         width: calc(var(--width) * 2);
         height: calc(var(--height) * 2);
         top: calc(var(--height) * -.4);
-        left:  calc(var(--width) * -.4);
+        left:  calc(var(--width) * -.25);
         background-size: cover;
         background-position: center;
         transition: transform var(--transition-cursor);
